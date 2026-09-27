@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stopwatch top knob -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M50,26 h8 v4 h-8 z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M48,24 h12 v3 h-12 z" />
+
+    <!-- Outer stopwatch ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,58m-26,0a26,26 0,1 1,52 0a26,26 0,1 1,-52 0"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round" />
+
+    <!-- Active focus arc (representing time tracking) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,32 A26,26 0 0,1 80,58"
+        android:strokeColor="#818CF8"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+    <!-- Clock / Timer Hands showing focus -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,58 L54,42"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,58 L66,58"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Center pivot dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,58m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+
+    <!-- Spark / Nudge indicator dot -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M70,40m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>

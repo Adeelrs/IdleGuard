@@ -1,0 +1,6 @@
+{
+  "name": "IdleGuard",
+  "description": "Sleek screen & idle tracker with 15-min triggers, customizable snooze timer, focus sessions, and daily progress trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
