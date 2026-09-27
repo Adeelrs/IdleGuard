@@ -1,10 +1,10 @@
-# IdleGuard ⏱️
+# IdleGuard 
 
 **IdleGuard** is a personalized, minimalist focus companion and weekly task manager built with modern Android development practices, **Jetpack Compose (Material 3)**, and **Room Database**. Specifically tailored for high-focus personal productivity on devices like the **Samsung Galaxy S25 Ultra**, it keeps you accountable with persistent lock screen notifications and hourly refocus alerts.
 
 ---
 
-## 📱 Features
+##  Features
 
 ### 1. Home — Minimal Focus Timer
 * **15-Minute Default:** Launches immediately into a clean, distraction-free countdown timer set to 15 minutes by default.
@@ -30,12 +30,12 @@
 ### 4. Settings & Customization
 * **Repeat Interval:** Choose how frequently nudges and repeat alerts trigger (**5m, 10m, 15m, 20m**).
 * **Dynamic Color Themes:** Instantly switch between 6 themes:
-  * 🌿 **Emerald Focus** (Default)
-  * ☁️ **Sky Minimal**
-  * 🔮 **Deep Violet**
-  * 🍯 **Warm Amber**
-  * 🌹 **Crimson Rose**
-  * ⚙️ **Slate Titanium (Monochrome)**
+  *  **Emerald Focus** (Default)
+  *  **Sky Minimal**
+  *  **Deep Violet**
+  *  **Warm Amber**
+  *  **Crimson Rose**
+  *  **Slate Titanium (Monochrome)**
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 💻 How to Open and Run in VS Code
+##  How to Open and Run in VS Code
 
 ### Prerequisites
 1. **JDK 17 or JDK 21** installed (`java -version`).
@@ -93,7 +93,7 @@
 
 ---
 
-## 📲 How to Install Directly on Your Phone (Samsung Galaxy S25 Ultra)
+##  How to Install Directly on Your Phone (Samsung Galaxy S25 Ultra)
 
 You can install IdleGuard onto your Samsung Galaxy S25 Ultra using either **Direct APK Download** or **USB / Wireless Debugging**.
 
@@ -134,7 +134,7 @@ You can install IdleGuard onto your Samsung Galaxy S25 Ultra using either **Dire
 
 ---
 
-## 🔒 Lock Screen & Samsung Permissions Tip
+##  Lock Screen & Samsung Permissions Tip
 
 To make sure your notifications remain permanently active on One UI:
 1. Open phone **Settings** > **Apps** > **IdleGuard**.
@@ -146,5 +146,5 @@ To make sure your notifications remain permanently active on One UI:
 
 ---
 
-## 📄 License
+##  License
 Personal Project — Created for personalized productivity and habit tracking.
